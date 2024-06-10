@@ -1,4 +1,4 @@
-College Name,State,Public (1)/ Private (2),# appli. rec'd,# appl. accepted,# new stud. enrolled,% new stud. from top 10%,% new stud. from top 25%,# FT undergrad,# PT undergrad,in-state tuition,out-of-state tuition,room,board,add. fees,estim. book costs,estim. personal $,% fac. w/PHD,stud./fac. ratio,Graduation rate
+College_Name,State,Public1_Private_2,num_appli_recd, num_appl_accepted,# new_stud_enrolled, percent_new_stud_from_top10, percent_new_stud_from_top_25, num_FT_undergrad,num_PT_undergrad,in_state_tuition,out_of_state_tuition,room,board,add_fees,estim_book_costs,estim_personal_, percent_fac_w/PHD,stud_fac_ratio,Graduation_rate
 Alaska Pacific University,AK,2,193,146,55,16,44,249,869,7560,7560,1620,2500,130,800,1500,76,11.9,15
 University of Alaska at Fairbanks,AK,1,1852,1427,928,,,3885,4519,1742,5226,1800,1790,155,650,2304,67,10,
 University of Alaska Southeast,AK,1,146,117,89,4,24,492,1849,1742,5226,2514,2250,34,500,1162,39,9.5,39
